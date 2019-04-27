@@ -1,1 +1,1 @@
-include ':app', ':performance-tools'
+include ':performance-tools', ':myapplication'
