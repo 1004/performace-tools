@@ -1,4 +1,4 @@
-apply plugin:'maven'
+apply plugin: 'maven'
 
 ext {
   // 从Github上clone下来的项目的本地地址

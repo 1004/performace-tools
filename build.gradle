@@ -20,6 +20,10 @@ allprojects {
     repositories {
         jcenter()
         google()
+        maven { url "https://raw.githubusercontent.com/1004/performace-tools/master" }
+//        maven { url "https://raw.githubusercontent.com/AudienL/repos/master" }
+
+      //        maven { url "https://github.com/1004/performace-tools/raw/maste" }
     }
 }
 
